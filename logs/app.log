@@ -1,0 +1,75 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:03:07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:03:27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:07:53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:20:53"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:21:57"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:22:00"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:25:06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:25:11"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:26:36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:06"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:26"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:47"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:27:56"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:28:30"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:29:12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:29:49"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:32:48"}
+{"level":"info","message":"User signed up: Smar@gmail.com","timestamp":"2025-03-06 13:33:14"}
+{"level":"info","message":"User logged in: Smar@gmail.com","timestamp":"2025-03-06 13:34:32"}
+{"level":"info","message":"New post created by user 67c956c20e5fd683b5f3033e","timestamp":"2025-03-06 13:46:05"}
+{"level":"info","message":"New post created by user 67c956c20e5fd683b5f3033e","timestamp":"2025-03-06 13:47:24"}
+{"level":"info","message":"Posts fetched with filters","timestamp":"2025-03-06 13:47:33"}
+{"level":"info","message":"User signed up: User@gmail.com","timestamp":"2025-03-06 13:49:01"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:49:14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:50:00"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:50:02"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:50:50"}
+{"level":"error","message":"Profile fetch error: Cannot read properties of undefined (reading 'id')","timestamp":"2025-03-06 13:50:51"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:51:07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:51:35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:51:50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:52:29"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:53:24"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:53:42"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:53:48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:53:52"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:54:23"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:55:17"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:55:41"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:55:50"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:56:15"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:56:34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:56:48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:56:58"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 13:57:07"}
+{"level":"info","message":"User signed up: Admin@gmail.com","timestamp":"2025-03-06 13:58:13"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 13:58:25"}
+{"level":"info","message":"New post created by user 67c95c9d582358c59672d6cb","timestamp":"2025-03-06 14:00:48"}
+{"level":"info","message":"Posts fetched with filters","timestamp":"2025-03-06 14:01:27"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:02:13"}
+{"level":"error","message":"Profile fetch error: Cannot read properties of undefined (reading 'id')","timestamp":"2025-03-06 14:02:14"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:02:35"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:02:37"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:03:16"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:03:26"}
+{"level":"error","message":"Profile fetch error: Cannot read properties of undefined (reading 'id')","timestamp":"2025-03-06 14:03:27"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 14:06:09"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:08:06"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 14:08:08"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:08:19"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:14:34"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:14:36"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 14:14:42"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 14:14:55"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:15:08"}
+{"level":"info","message":"User logged in: Admin@gmail.com","timestamp":"2025-03-06 14:15:10"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:17:40"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:17:42"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:17:48"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:35:38"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:36:25"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 14:36:44"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-06 15:06:39"}
