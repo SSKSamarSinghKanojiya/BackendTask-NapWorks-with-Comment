@@ -60,7 +60,7 @@ API Endpoints
 Endpoint: POST /api/signup
 
 Request Body:
-
+```
 {
   "name": "John Doe",
   "email": "john@example.com",
@@ -73,7 +73,7 @@ Response:
   "message": "User registered successfully",
   "token": "jwt_token_here"
 }
-
+```
 2. User Login
 
 - Endpoint: POST /api/login
